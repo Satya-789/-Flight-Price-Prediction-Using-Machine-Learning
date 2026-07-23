@@ -1,0 +1,2 @@
+# -Flight-Price-Prediction-Using-Machine-Learning
+Flight Price Prediction is a Machine Learning project that predicts airline ticket prices based on factors such as airline, source, destination, journey date, flight duration, departure time, and number of stops. The project uses feature engineering, data preprocessing, exploratory data analysis, &amp; Random Forest Regression to predict flight prices.
